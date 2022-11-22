@@ -1,6 +1,14 @@
 # Algeo02-21021
 Tubes 2 of Aljabar linear dan Geometri (IF2123). A face recognition program made with python. This program is used to recognize a face and find the similar face in the dataset uploaded and displaying the closest photo with the uploaded photo using the Eigenfaces algorithm.
 
+## Table of Contents
+* [Kelompok Sambal Balado](#kelompok-sambal-balado)
+* [Program Features](#program-features)
+* [How to Run](#how-to-run)
+* [How to Use](#how-to-use)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+
 ## Kelompok Sambal Balado
 | Nama Anggota   | NIM |
 | :---        |    :----:   |
@@ -27,4 +35,9 @@ Tubes 2 of Aljabar linear dan Geometri (IF2123). A face recognition program made
 
 ## Project Status
 Project is: complete
+
+## Room for Improvement
+- live view camera feed on the GUI
+- optimizing image processing time
+
 
