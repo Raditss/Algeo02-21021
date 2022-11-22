@@ -25,4 +25,6 @@ Tubes 2 of Aljabar linear dan Geometri (IF2123). A face recognition program made
 - If you decided to use the camera, press "q" to take the picture
 - press the calculate button and wait for your result
 
+## Project Status
+Project is: complete
 
